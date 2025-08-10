@@ -6,7 +6,7 @@
 
 All written content, theory, diagrams, and non-software files in this repository are licensed under the [Creative Commons BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-For software/code components, a separate license may apply.
+For software/code components, GNU General Public License v3.0 applys(https://choosealicense.com/licenses/gpl-3.0/#).
 
 This repository contains foundational theory, documentation, and early-stage planning for a conceptual class of post-scarcity technology known as **QTAPMS** — a system capable of producing stable, usable matter through accelerated entropy and quantum randomness within self-contained environments.
 
@@ -45,17 +45,7 @@ If you're here to help build a future based on freedom, not control — you're i
 - `manifestos/` — Vision documents, ethical frameworks, and history alignment
 - `docs/` — Technical sketches, math, and theoretical models
 - `sim/` — Placeholder for eventual simulation tools
-- `LICENSE` — Creative Commons BY-NC-SA 4.0 License
-
----
-
-## 📜 License Notice
-
-All written content and theoretical work in this repository is licensed under:
-
-**[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)**
-
-> This means you can share, adapt, and remix non-commercially, as long as you credit the original work and keep all derivatives under the same license.
+- `license/` — Creative Commons BY-NC-SA 4.0 License / GNU General Public License v3.0
 
 ---
 
