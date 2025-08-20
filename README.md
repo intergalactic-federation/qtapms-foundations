@@ -58,6 +58,7 @@ yes there .vscode dir in there but it is just the ide I use you do not need it f
 after that make a build dir then use cmake to configure and generate to the build dir
 
 then use MAKE to compile the code and then run it.
+
 ---
 
 ## 🔒 Philosophy
