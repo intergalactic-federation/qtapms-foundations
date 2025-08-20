@@ -1,0 +1,3 @@
+/home/mikey/qtapms-foundations/sim/build/CMakeFiles/qtapms-sim.dir
+/home/mikey/qtapms-foundations/sim/build/CMakeFiles/edit_cache.dir
+/home/mikey/qtapms-foundations/sim/build/CMakeFiles/rebuild_cache.dir
