@@ -48,6 +48,18 @@ If you're here to help build a future based on freedom, not control — you're i
 - `license/` — Creative Commons BY-NC-SA 4.0 License / GNU General Public License v3.0
 
 ---
+## HOW TO COMPILE SIM
+SIM IS NOT DONE INSTALL AND COMPILE AT YOUR OWN RISK
+
+first you will need to have glfw, cmake, and MAKE you should be able to get this on windows, mac, and linux(what I am using)
+
+yes there .vscode dir in there but it is just the ide I use you do not need it for this
+
+after that make a build dir then use cmake to configure and generate to the build dir
+
+then use MAKE to compile the code and then run it.
+
+---
 
 ## 🔒 Philosophy
 
