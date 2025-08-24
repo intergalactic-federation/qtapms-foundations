@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/mikey/qtapms-foundations/build",
+  "command": "/usr/bin/c++  -I/home/mikey/qtapms-foundations/sim/src/lib/glad/include -g -o CMakeFiles/qtapms-sim.dir/src/main.cpp.o -c /home/mikey/qtapms-foundations/sim/src/main.cpp",
+  "file": "/home/mikey/qtapms-foundations/sim/src/main.cpp",
+  "output": "CMakeFiles/qtapms-sim.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/mikey/qtapms-foundations/build",
+  "command": "/usr/bin/cc  -I/home/mikey/qtapms-foundations/sim/src/lib/glad/include -g -o CMakeFiles/qtapms-sim.dir/src/lib/glad/src/gl.c.o -c /home/mikey/qtapms-foundations/sim/src/lib/glad/src/gl.c",
+  "file": "/home/mikey/qtapms-foundations/sim/src/lib/glad/src/gl.c",
+  "output": "CMakeFiles/qtapms-sim.dir/src/lib/glad/src/gl.c.o"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/qtapms-sim.dir/link.d "CMakeFiles/qtapms-sim.dir/src/main.cpp.o" "CMakeFiles/qtapms-sim.dir/src/lib/glad/src/gl.c.o" -o qtapms-sim  -lglfw /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so
